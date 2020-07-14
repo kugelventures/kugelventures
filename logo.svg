@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="403px" viewBox="0 0 222 403" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Wort und Bild - weiß</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Wort-und-Bildmarke" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wort-und-Bild---weiß" transform="translate(-9.000000, 0.000000)">
+            <path d="M111,150 L11,150" id="Line" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="square"></path>
+            <path d="M227,297 L177,297" id="Line" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="square"></path>
+            <path d="M228,2 L178,2" id="Line" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="square"></path>
+            <path d="M228,3 L112,149" id="Line" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="square"></path>
+            <path d="M227,296 L112,151" id="Line" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="square"></path>
+            <path d="M228,3 L112,149" id="Line" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="square"></path>
+            <path d="M227,296 L112,151" id="Line" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="square"></path>
+            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="2.5" x="10.25" y="1.25" width="47.5" height="297.5"></rect>
+            <text id="KUGEL" font-family="AvenirNext-UltraLight, Avenir Next" font-size="60" font-weight="200" letter-spacing="9.375" fill="#FFFFFF">
+                <tspan x="4.45546875" y="360">KUGE</tspan>
+                <tspan x="202.875469" y="360" letter-spacing="8.7890625">L</tspan>
+            </text>
+            <text id="ventures" font-family="AvenirNext-UltraLight, Avenir Next" font-size="48" font-weight="200" letter-spacing="6" fill="#A8A7A7">
+                <tspan x="8.0705" y="402">venture</tspan>
+                <tspan x="208.1345" y="402" letter-spacing="9.375">s</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

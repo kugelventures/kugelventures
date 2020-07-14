@@ -1,0 +1,150 @@
+html {
+    font-size: 62.5%
+}
+
+body {
+    background-color: #000012;
+    color: #fff;
+    font-family: 'Avenir Next', sans-serif;
+    font-weight: 300;
+    font-size: 1.6em;
+    padding: 0
+}
+
+::-moz-selection {
+    background-color: #000012
+}
+
+::selection {
+    background-color: #000012
+}
+
+.Content {
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 3em
+}
+
+@media screen and (min-height:38em) {
+    .Content {
+        margin: 0;
+        display: table;
+        position: absolute;
+        top: -4rem;
+        left: 0;
+        height: 100vh;
+        width: 100vw
+    }
+}
+
+.Logo {
+    margin: 0 0 5vh 0
+}
+
+.Introduction {
+    position: relative;
+    z-index: 1;
+    display: table-cell;
+    vertical-align: middle
+}
+
+.Introduction-content {
+    max-width: 50em;
+    padding: 0 10vw;
+    margin: 0 auto
+}
+
+.Baseline {
+    font-size: 1.5em;
+    font-weight: 300
+}
+
+@media screen and (min-width:62em) {
+    .Baseline {
+        font-size: 1.5em
+    }
+}
+
+.About {
+    font-size: 1.5em;
+    font-weight: 300;
+    margin-bottom: 1.5em;
+    line-height: 1.3
+}
+
+@media screen and (min-width:62em) {
+    .About {
+        font-size: 1.5em;
+    }
+}
+
+.TwitterBtn {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none
+}
+
+.TwitterBtn svg {
+    vertical-align: middle;
+    margin-right: .2em
+}
+
+.TwitterBtn span {
+    position: relative;
+    top: -2px;
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: underline
+}
+
+.StarField {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+.Footer {
+    position: relative;
+    z-index: 1;
+    margin-bottom: 2em;
+    text-align: center;
+    padding: 0 1em;
+    line-height: 1.5
+}
+
+@media screen and (min-height:38em) {
+    .Footer {
+        margin-bottom: 0;
+        position: absolute;
+        bottom: 4rem;
+        left: 0;
+        width: 100%;
+        box-sizing: border-box
+    }
+}
+
+.Footer-content {
+    color: #fff;
+    opacity: .7;
+    font-size: .875em
+}
+
+.Footer-link {
+    color: inherit
+}
+
+.TGSLogo {
+    display: inline-block;
+    margin: 1em 0
+}
+
+@media screen and (min-width:46em) {
+    .TGSLogo {
+        margin: 0;
+        position: absolute;
+        right: 4rem;
+        bottom: .5em
+    }
+}
